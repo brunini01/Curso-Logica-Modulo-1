@@ -43,7 +43,7 @@ while(i <= numero){
     i++;
     }
 }
-umAdez()
-zeroAdez()
-ContatemRegressiva()
-ContadorProgressiva()
+umAdez();
+zeroAdez();
+ContatemRegressiva();
+ContadorProgressiva();
