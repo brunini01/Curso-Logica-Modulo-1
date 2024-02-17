@@ -1,2 +1,2 @@
 # Curso
-Desafios feitos em cursos
+Desafios propostos pela alura ao longo de um curso realizado.
